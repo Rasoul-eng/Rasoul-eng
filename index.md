@@ -33,17 +33,15 @@ _ payam Noor University of North
 
 ### Favorites
 + swimming
-
----
 + Trade
-+ Studing historical books
++ wach the puzzle movie
 + travel 
 + playing volleyball
 
 ### working Experience
 
 ---
-+ I am working in Caltural,Turism & Handicrafts Minister.
++ I am a government employee.
 
 
 
