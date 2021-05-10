@@ -1,28 +1,27 @@
 
-### Anahita Taheri
+### Rasoul Abdi
 
 
 ### Personal informations
 
 ---
-+ name: Anahita
-+ last name : Taheri
-+ Date of birth : 1979/November/29
-+ I am a trader and IT engineering student
++ name: Rasoul
++ last name : Abdi
++ Date of birth : 1981/September/21
++ I am a IT engineering student
 + location : Tehran , I.R.Iran
 
 
 ### Skill Highlights
 
 ---
-+ trade on Tehran Stock Exchange and Forex
 + translating
 
 
 ### Education
 
 ---
-+ Diploma : Aeen Tarbiat high school
++ Diploma : Beheshti high school
 + Bachelor of science : IT Engineering
 _ payam Noor University of North 
 
@@ -33,6 +32,7 @@ _ payam Noor University of North
 + English
 
 ### Favorites
++ swimming
 
 ---
 + Trade
