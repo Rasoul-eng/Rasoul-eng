@@ -8,7 +8,7 @@
 + name: Rasoul
 + last name : Abdi
 + Date of birth : 1981/September/21
-+ I am a IT engineering student
++ I am a software engineering student
 + location : Tehran , I.R.Iran
 
 
@@ -22,7 +22,7 @@
 
 ---
 + Diploma : Beheshti high school
-+ Bachelor of science : IT Engineering
++ Bachelor of science : software Engineering
 _ payam Noor University of North 
 
 ### language
